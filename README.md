@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Sandro Faustino 👋
 
-<!--
-**sxndr0/sxndr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Telecommunications Engineering student at UCAN (Luanda, Angola)
+💼 Electronics and Telecommunications Technician — IPIL (2019–2023)
 
-Here are some ideas to get you started:
+## 🛠️ Stack & Tools
+- **Networks:** VLANs · OSPF · EIGRP · HSRP/VRRP/GLBP · Spanning Tree · Cisco
+- **Systems:** Linux · VMware Workstation · EVE-NG · PNetLab
+- **Development:** Java · Bash (learning)
+- **Cloud/DevOps:** Docker · AWS · Nginx (roadmap in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Certifications in progress
+- 🔷 Cisco CCNA
+- 🔶 CompTIA ITF+
+
+## 🚀 Objectives
+Transition to Cloud/Linux Freelance SysAdmin · Upwork · DevOps
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/sandro-joaquim-383330213)
+✉️ sandrofaustino48@gmail.com
